@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Personal Portfolio Website</title>
+    <!----CSS link----->
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="hero">
+      <nav>
+        <img src="./img/logo.png" class="logo" />
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Service</a></li>
+          <li><a href="#">Portfolio</a></li>
+          <li><a href="#">Blog</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+        <a href="#" class="btn">Resume</a>
+      </nav>
+
+      <div class="content">
+        <span class="title">Photographer and Editor.</span>
+        <h1>Hello, I’m <span>Glen</span></h1>
+        <p>
+          Hello, I'm Glen, a photographer and editor dedicated to transforming ordinary moments into extraordinary visuals. With a strong foundation in photography and a refined editing style, I focus on capturing the essence of every subject and creating polished, professional images. I believe that photography is about more than just a picture; it’s about evoking feelings and preserving memories. Whether through candid shots or meticulously crafted edits, my goal is to deliver work that exceeds expectations.
+        </p>
+        <a href="#" class="btn">Download CV</a>
+      </div>
+    </div>
+  </body>
+</html>
+Sent
+Write to
